@@ -1,0 +1,14 @@
+// Banner Section
+.home-banner {
+  background: url('/src/assets/images/hero_banner.jpg') no-repeat right top;
+  background-size: cover;
+}
+
+// rating
+.rating {
+  input {
+    appearance: none;
+    width: 0;
+    height: 0;
+  }
+}
